@@ -7,7 +7,7 @@
   <img src="./assets/clouds.gif" width="320" />
 </p>
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
 <tr>
 <td>
   

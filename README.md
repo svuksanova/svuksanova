@@ -1,9 +1,12 @@
-<h1 align="center">Hey there, I'm Stefani 👋</h1> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Stefani+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
 <p align="center">
    🧠 Always curious | 🛠 Building cool stuff | 🌀 Learning in loops
 </p>
 
-<!-- Clouds repeated twice for width coverage -->
+<!-- Clouds -->
 <p align="center">
   <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
@@ -17,6 +20,9 @@
   <img src="./assets/clouds.gif" width="100" />
 </p>
 
+---
+
+<!-- About Me + Cat -->
 <table>
 <tr>
 <td>
@@ -36,10 +42,14 @@
 </tr>
 </table>
 
+---
+
 ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  
 - Dark mode is not a preference, it's a lifestyle 🌚
+
+---
 
 <!-- Cat paws at the bottom -->
 <p align="center">

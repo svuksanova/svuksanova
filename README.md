@@ -25,8 +25,6 @@
   - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
   - 🧘‍♂️ Currently balancing code, chaos, and caffeine  
 
-  <img src="./assets/plant.gif" width="120" />
-
   </div>
 
   <div style="flex-shrink: 0; margin-left: 20px;">

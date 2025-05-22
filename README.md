@@ -3,16 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
-  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="250" />
+  <img src="./assets/clouds.gif" width="250" />
 </p>
 
 <table>

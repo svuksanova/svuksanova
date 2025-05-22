@@ -31,6 +31,7 @@
 - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
 - 🧘‍♂️ Currently balancing code, chaos, and caffeine
 
+---
   ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  

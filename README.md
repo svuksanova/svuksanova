@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/clouds.gif" width="250" />
-  <img src="./assets/clouds.gif" width="250" />
+  <img src="./assets/clouds.gif" width="300" />
+  <img src="./assets/clouds.gif" width="300" />
 </p>
 
 <table>

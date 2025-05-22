@@ -8,31 +8,31 @@
 </p>
 
 <div style="text-align: center;">
-  <table style="display: inline-table;">
-    <tr>
-      <td>
-        <h3>🧩 About Me</h3>
-        <ul>
-          <li>Based somewhere between logic and creativity</li>
-          <li>I love figuring out how things work — then making them better</li>
-          <li>Sometimes I build apps, sometimes I automate life, sometimes I just vibe</li>
-          <li>Into experimenting with tech, ideas, and side quests that lead somewhere unexpected</li>
-          <li>Currently balancing code, chaos, and caffeine</li>
-        </ul>
+<table style="display: inline-table;">
+<tr>
+<td>
+  
+### 🧩 About Me
 
-        <h3>✨ Fun Facts</h3>
-        <ul>
-          <li>I write better code at 2am 🌙</li>
-          <li>Dark mode is not a preference, it's a lifestyle 🌚</li>
-        </ul>
-      </td>
-      <td align="center" width="200">
-        <img src="./assets/catDancing.gif" width="150" alt="cat dancing gif" />
-      </td>
-    </tr>
-  </table>
+- Based somewhere between logic and creativity  
+- I love figuring out how things work — then making them better  
+- Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
+- Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
+- Currently balancing code, chaos, and caffeine
+<br/>
+✨ Fun Facts
+
+- I write better code at 2am 🌙  
+- Dark mode is not a preference, it's a lifestyle 🌚
+
+</td>
+
+<td align="center" width="200">
+  <img src="./assets/catDancing.gif" width="150" alt="cat dancing gif" />
+</td>
+</tr>
+</table>
 </div>
-
 
 <p align="center">
   <img src="./assets/catClaws.gif" />

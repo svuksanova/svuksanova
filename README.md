@@ -27,7 +27,7 @@
 - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
 - 🧘‍♂️ Currently balancing code, chaos, and caffeine
 <br/>
-  ### ✨ Fun Facts
+✨ Fun Facts
 
 - I write better code at 2am 🌙  
 - Dark mode is not a preference, it's a lifestyle 🌚

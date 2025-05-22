@@ -3,6 +3,8 @@
    🧠 Always curious | 🛠 Building cool stuff | 🌀 Learning in loops
 </p>
 
+![clouds gif](./assets/clouds.gif) 
+
 ---
 
 ### 🧩 About Me
@@ -13,7 +15,13 @@
 - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
 - 🧘‍♂️ Currently balancing code, chaos, and caffeine  
 
+![plant gif](./assets/plant.gif) 
 
+---
+
+![catClaws gif](./assets/catClaws.gif) 
+
+---
 ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  
@@ -21,3 +29,4 @@
 
 ---
 
+![catDancing gif](./assets/catDancing.gif)

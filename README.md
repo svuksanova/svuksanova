@@ -3,7 +3,13 @@
    🧠 Always curious | 🛠 Building cool stuff | 🌀 Learning in loops
 </p>
 
+<!-- Clouds repeated twice for width coverage -->
 <p align="center">
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
@@ -13,25 +19,25 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<!-- Table layout for About Me + Cat side-by-side -->
+<table>
+<tr>
+<td>
 
-  <div style="flex: 1;">
+### 🧩 About Me
 
-  ### 🧩 About Me
+- 🌍 Based somewhere between logic and creativity  
+- 🔎 I love figuring out how things work — then making them better  
+- ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
+- 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
+- 🧘‍♂️ Currently balancing code, chaos, and caffeine  
 
-  - 🌍 Based somewhere between logic and creativity  
-  - 🔎 I love figuring out how things work — then making them better  
-  - ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
-  - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
-  - 🧘‍♂️ Currently balancing code, chaos, and caffeine  
-
-  </div>
-
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="./assets/catDancing.gif" width="150" alt="cat dancing gif" />
-  </div>
-
-</div>
+</td>
+<td align="center" width="200">
+  <img src="./assets/catDancing.gif" width="150" alt="cat dancing gif" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,6 +48,7 @@
 
 ---
 
+<!-- Cat paws at the bottom -->
 <p align="center">
   <img src="./assets/catClaws.gif" />
 </p>

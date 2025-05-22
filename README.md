@@ -17,9 +17,6 @@
   <img src="./assets/clouds.gif" width="100" />
 </p>
 
----
-
-<!-- Table layout for About Me + Cat side-by-side -->
 <table>
 <tr>
 <td>
@@ -39,14 +36,10 @@
 </tr>
 </table>
 
----
-
 ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  
 - Dark mode is not a preference, it's a lifestyle 🌚
-
----
 
 <!-- Cat paws at the bottom -->
 <p align="center">

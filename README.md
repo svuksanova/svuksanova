@@ -7,7 +7,8 @@
   <img src="./assets/clouds.gif" width="320" />
 </p>
 
-<table style="margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+<table style="display: inline-table;">
 <tr>
 <td>
   
@@ -31,6 +32,7 @@
 </td>
 </tr>
 </table>
+</div>
 
 <p align="center">
   <img src="./assets/catClaws.gif" />

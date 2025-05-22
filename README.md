@@ -13,11 +13,11 @@
   
 ### 🧩 About Me
 
-- 🌍 Based somewhere between logic and creativity  
-- 🔎 I love figuring out how things work — then making them better  
-- ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
-- 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
-- 🧘‍♂️ Currently balancing code, chaos, and caffeine
+- Based somewhere between logic and creativity  
+- I love figuring out how things work — then making them better  
+- Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
+- Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
+- Currently balancing code, chaos, and caffeine
 <br/>
 ✨ Fun Facts
 

@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-   🧠 Always curious | 🛠 Building cool stuff | 🌀 Learning in loops
-</p>
-
-<p align="center">
   <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
   <img src="./assets/clouds.gif" width="100" />
@@ -30,8 +26,7 @@
 - ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
 - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
 - 🧘‍♂️ Currently balancing code, chaos, and caffeine
-
----
+<br/>
   ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  
@@ -45,7 +40,6 @@
 </tr>
 </table>
 
-<!-- Cat paws at the bottom -->
 <p align="center">
   <img src="./assets/catClaws.gif" />
 </p>

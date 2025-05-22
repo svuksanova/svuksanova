@@ -3,25 +3,40 @@
    🧠 Always curious | 🛠 Building cool stuff | 🌀 Learning in loops
 </p>
 
-![clouds gif](./assets/clouds.gif) 
+<p align="center">
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+  <img src="./assets/clouds.gif" width="100" />
+</p>
 
 ---
 
-### 🧩 About Me
- 
-- 🌍 Based somewhere between logic and creativity  
-- 🔎 I love figuring out how things work — then making them better  
-- ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
-- 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
-- 🧘‍♂️ Currently balancing code, chaos, and caffeine  
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-![plant gif](./assets/plant.gif) 
+  <div style="flex: 1;">
+
+  ### 🧩 About Me
+
+  - 🌍 Based somewhere between logic and creativity  
+  - 🔎 I love figuring out how things work — then making them better  
+  - ⚡ Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
+  - 🧪 Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
+  - 🧘‍♂️ Currently balancing code, chaos, and caffeine  
+
+  <img src="./assets/plant.gif" width="120" />
+
+  </div>
+
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="./assets/catDancing.gif" width="150" alt="cat dancing gif" />
+  </div>
+
+</div>
 
 ---
 
-![catClaws gif](./assets/catClaws.gif) 
-
----
 ### ✨ Fun Facts
 
 - I write better code at 2am 🌙  
@@ -29,4 +44,6 @@
 
 ---
 
-![catDancing gif](./assets/catDancing.gif)
+<p align="center">
+  <img src="./assets/catClaws.gif" />
+</p>

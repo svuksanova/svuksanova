@@ -3,25 +3,16 @@
 </p>
 
 ## 🧠 About Me
-Based somewhere between logic and creativity  
-I love figuring out how things work — then making them better  
-Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
-Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
-Currently balancing code, chaos, and caffeine ☕  
+- Based somewhere between logic and creativity  
+- I love figuring out how things work — then making them better  
+- Sometimes I build apps, sometimes I automate life, sometimes I just vibe  
+- Into experimenting with tech, ideas, and side quests that lead somewhere unexpected  
+- Currently balancing code, chaos, and caffeine ☕  
 
 ### ✨ Fun Facts
 - I write better code at 2am 🌙  
 - Dark mode is not a preference, it's a lifestyle 🌚  
 
-## 💻 Tech Stack
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 ## 📊 GitHub Stats
 
@@ -30,6 +21,7 @@ Currently balancing code, chaos, and caffeine ☕
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svuksanova&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=svuksanova&theme=tokyonight)
+
 
 ## 📫 Connect With Me
 

@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Stefani" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="./assets/clouds.gif" width="320" />
-  <img src="./assets/clouds.gif" width="320" />
-</p>
-
 <div style="text-align: center;">
 <table style="display: inline-table;">
 <tr>
@@ -39,11 +34,11 @@ Currently balancing code, chaos, and caffeine ☕
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svuksanova&show_icons=true&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svuksanova&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=svuksanova&theme=tokyonight)
 
 ---
 
@@ -53,5 +48,5 @@ Currently balancing code, chaos, and caffeine ☕
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/stefani-vuksanova-487286253/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vuksanovastefani@gmail.com)

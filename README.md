@@ -37,13 +37,6 @@ Currently balancing code, chaos, and caffeine ☕
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=svuksanova&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=svuksanova&theme=radical&margin-w=5&no-frame=true)
-
----
 
 ## 📫 Connect With Me
 

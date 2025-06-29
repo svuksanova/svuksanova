@@ -2,11 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Stefani" alt="Typing SVG" />
 </p>
 
-<div style="text-align: center;">
-<table style="display: inline-table;">
-<tr>
-<td>
-  
+---
+
 ## 🧠 About Me
 Based somewhere between logic and creativity  
 I love figuring out how things work — then making them better  
@@ -44,9 +41,11 @@ Currently balancing code, chaos, and caffeine ☕
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=5&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=svuksanova&theme=radical&margin-w=5&no-frame=true)
+
+---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/stefani-vuksanova-487286253/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stefani-vuksanova-487286253/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vuksanovastefani@gmail.com)
